@@ -2,7 +2,7 @@
 - 🔭 I’m currently study on SMKN 2 YOGYAKARTA
 - 👀 I’m interested in FrontEnd Developers.
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me ...
+- 📫 How to reach me aryadarrensetiadiamn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once called insensitive by a guy.
 
