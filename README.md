@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryadarrensetiadi
 - 🔭 I’m currently study on SMKN 2 YOGYAKARTA
 - 👀 I’m interested in FrontEnd Developers.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning JavaScript, Figma
 - 📫 How to reach me aryadarrensetiadiamn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I was once called insensitive by a guy.
