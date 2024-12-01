@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aryadarrensetiadi
 - 🔭 I’m currently study on SMKN 2 YOGYAKARTA
-- 👀 I’m interested in FrontEnd Developers.
-- 🌱 I’m currently learning JavaScript, Figma
-- 📫 How to reach me aryadarrensetiadiamn@gmail.com
+- 👀 I’m interested in DevOps.
+- 🌱 I’m currently learning -
+- 📫 How to reach me aryadarrensetiadiamn@gmail.com or aryasetiadi@aripurin.my.id
 - ⚡ Fun fact: I was once called insensitive by a guy.
 
 <!---
